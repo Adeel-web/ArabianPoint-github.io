@@ -1,0 +1,240 @@
+*{margin: 0px;padding: 0px;box-sizing: border-box;}
+
+#logo
+{
+    font-size: 20px;
+    font-family: 'Rock Salt', cursive;
+    padding-left: 50px;
+    font-weight: lighter;
+    margin-right: 0px;
+}
+#header img
+{
+    width: 100%;
+     min-width: 400px;    
+     max-height: 500px; 
+    min-height: 450px;
+    background-size: cover; 
+    margin-right: 0px;
+  
+} 
+#nav
+{background-color: rgba(0,0, 0, 0.6);}
+h1
+{
+    font-size: 40px;
+    font-family: 'Rock Salt', cursive;
+    color: cyan;
+    opacity: 0.6;
+    margin-right: 0px;}
+.black 
+{
+    width: 100%;
+    min-width: 400px;
+    height: 650px; 
+     max-height: 650px;
+     min-height: 500px;
+    color: cyan;
+    background-color: rgba(0,0, 0, 0.7);
+    position: relative;
+    text-align: center;
+    padding-top: 280px;
+    font-family: 'Rock Salt', cursive;
+    font-size: 70px;
+    margin-top: -650px;
+    margin-right: 0px;
+}
+#navli a:hover
+{
+    transition: 0.5s;
+    padding: 7px 20px 7px 20px;
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+    margin-right: 0px;
+}
+.start
+{
+ text-align: center;  
+ margin-top: 50px;
+ margin-bottom: 50px; 
+
+}
+.image img
+{
+    width: 50%;
+  max-width: 500px;
+   min-width: 400px;
+   height: 50%;
+   min-height: 400px;
+   margin: 20px;
+   margin-bottom: 50px;
+  
+}
+.image button
+{
+    padding: 10px 40px 10px 40px;
+    border: 2px groove grey;
+    
+}
+.grown img
+{
+    margin-top: 100px;
+    width: 100%;
+    min-width: 460px;
+    height: 500px;
+ 
+}
+.piccontent
+{
+    width: 100%;
+    min-width: 450px;
+    height: 500px; 
+     max-height: 500px;
+     min-height: 400px;
+    color: cyan;
+    background-color: rgba(0,0, 0, 0.4);
+    position: relative;
+    font-family: 'Rock Salt', cursive;
+    font-size: 70px;
+    margin-top: -500px;
+
+}
+.content
+{
+    padding: 60px 0px 0px 50px;
+    width: 50%;
+    min-width: 400px;    
+    max-height: 625px; 
+   min-height: 400px;
+  
+}
+.footer
+{
+    color: white;
+    background-color: rgba(0,0, 0, 0.9);
+    padding-bottom: 50px;
+    padding-top: 50px;
+   
+}
+.footer-content a
+{
+    color: gray;
+ 
+}
+.footer-content a:hover
+{color: white;text-decoration: none;}
+#div1
+{padding-left: 100px;margin-right: 0px;}
+    
+ul 
+{
+    list-style: none;
+    padding-left: 20px;
+ 
+    
+}
+a:hover
+{
+    color: white;
+}
+#footerimg img
+{
+    margin-top: 5px;
+   
+}
+#footerimg{padding-bottom: 50px;;padding: 30px 0px 50px 90px;}
+#footerimg a:hover{transition: 0.5s;opacity: 0.2;box-shadow: 2px 2px 2px 20px white;}
+
+
+     /* For ABoUT PAge Css */
+
+#div
+{
+    justify-content: center;
+    padding-top: 100px;
+    padding-bottom: 50px;
+   
+}
+p{font-size: 16px;color:gray;font-family:sans-serif;}
+#col2
+{
+   padding-left: 80px;
+   margin-bottom: 100px;
+   
+}
+      /* For Manu Page Css */
+#container img
+{
+    width: 60%;
+    max-width: 750px;
+    min-width: 400px;   
+    height: 50%; 
+     max-height: 600px; 
+    min-height: 300px;
+}
+#container
+{
+    padding-top: 100px;
+    text-align: center;
+    
+   
+}
+#container h1   
+{
+    font-size: 40px;
+    font-family: 'Rock Salt', cursive;
+    color: black;
+    font-weight: bold;
+    padding-bottom: 30px;
+}
+#container p
+{
+    font-size: 20px;
+}
+#div h1
+{
+    font-size: 30px;
+    font-family: 'Rock Salt', cursive;
+    color: black;
+    padding-bottom: 30px;
+}
+#div p
+{font-size: 20px;}
+
+/* For Contact */
+
+input[type='text']
+{
+    padding: 10px 70px 10px 10px;
+    margin: 3px;
+    font-size: 15px;
+    border: 1px solid rgba(0,0, 0, 0.1);
+}
+#Message
+{
+    font-size: 15px;
+    padding: 20px 100px 10px 30px;
+    margin-top: 5px;
+    border: 1px solid rgba(0,0, 0, 0.1);
+}
+#serv
+{justify-content: center;
+margin-bottom: 20px;
+}
+#image
+{
+   width: 85px;
+   padding-left: 50px;
+}
+#serv a:hover
+{text-decoration: none;}
+#col
+{background-color: whitesmoke;
+    border: 2px solid gray;
+}
+#col:hover
+{box-shadow: none;
+    box-shadow: 2px 2px 5px black;
+    transition: 0.6s;
+}
